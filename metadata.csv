@@ -1,0 +1,25 @@
+column_name,data_type,character_maximum_length
+house_id,character,3
+landlord_id,character,3
+house_location,character varying,30
+house_type,character varying,20
+house_value,numeric,
+company_id,character,3
+company_name,character varying,30
+service_type,character varying,30
+company_adress,character varying,30
+invoice_id,character,10
+maintenance_date,date,
+staff_name,character varying,30
+staff_surname,character varying,30
+company_id,character,3
+house_id,character,3
+tenant_id,character,3
+house_id,character,3
+tenant_name,character varying,30
+tenant_surname,character varying,30
+tenant_phone,character,11
+parkingid,character,3
+tenant_id,character,3
+parking_type,character,15
+parking_location,character varying,30
